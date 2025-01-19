@@ -1,7 +1,9 @@
-## Towns
-# Exercise for students in the teamwork course at SoftUni-Svetlina @Software Engineering cource
+# Towns Project
 
-# Roles
-  Stephan takes the role “Editor”.
-  Peter takes the role “Shiffler”.
-  Maria takes the role “Styler”.
+## Description
+This project is part of the exercise from the Git Branching and Pull Requests lesson in the Software Engineering and DevOps Course at SoftUni.
+
+## Roles
+- **Editor:** `<student_name>`
+- **Shiffler:** `<student_name>`
+- **Styler:** `<student_name>`
