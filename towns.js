@@ -20,7 +20,7 @@ function deleteTown() {
         showMessage(townName + " not found.");
 }
 
-// SvetozarP pretends that He has added this
+// Added by SvetozarP: Function to add a new town to the dropdown list
 function addTown() {
     let townName = $('#townNameForAdd').val();
     $('#townNameForAdd').val('');
