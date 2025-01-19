@@ -7,3 +7,5 @@ This project is part of the exercise from the Git Branching and Pull Requests le
 - **Editor:** `<student_name>`
 - **Shiffler:** `<student_name>`
 - **Styler:** `<student_name>`
+
+- **Editor:** `SvetozarP taking editor`
