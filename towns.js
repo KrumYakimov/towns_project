@@ -20,6 +20,7 @@ function deleteTown() {
         showMessage(townName + " not found.");
 }
 
+// SvetozarP pretends that He has added this
 function addTown() {
     let townName = $('#townNameForAdd').val();
     $('#townNameForAdd').val('');
